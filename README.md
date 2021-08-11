@@ -22,6 +22,6 @@ React Clock is an analog clock app.  Install by typing `npm install react-clock`
 
 More information can be found [here](https://www.npmjs.com/package/react-clock.).  A demo can be found [here](https://projects.wojtekmaj.pl/react-clock/_).
 
-###Fartscroll
+### Fartscroll
 
 Fartscroll allows you to have your webpage make fart noises while you scroll.  More information can he found [here](https://www.npmjs.com/package/fartscroll) and [here](http://theonion.github.io/fartscroll.js/).
