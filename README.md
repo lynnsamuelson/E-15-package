@@ -15,7 +15,7 @@ The documentation of all available components can be found [here](https://react-
 Luxon is a library for dealing with dates and times in JavaScript. The documentation can be found [here](https://moment.github.io/luxon/#/).
 
 ## Other fun npm packages 
-###not (yet) included in this directory
+*not (yet) included in this directory
 ### React Clock
 
 React Clock is an analog clock app.  Install by typing `npm install react-clock` in the console.  
